@@ -35,7 +35,7 @@ function App() {
   const firstUsers = getFirstUsers(usersFull);
   const recentUsers = getRecentUsers(usersFull);
   const popularUsers = getPopularUsers(usersFull);
-  const [grouping, setGrouping] = useState('week');
+  const [grouping, setGrouping] = useState('month');
   const [type, setType] = useState('absolute');
   const [period, setPeriod] = useState('all')
   const [processedData, setProcessedData] = useState({});
