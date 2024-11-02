@@ -1,0 +1,16 @@
+.highlight-category {
+    margin: 10px;
+    /* width: 250px; */
+  }
+  
+  .highlight-category h3 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .highlight-category .user-card {
+    margin-bottom: 10px;
+  }
+  

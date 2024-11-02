@@ -1,0 +1,28 @@
+.filter-component {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.filter-component label {
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+  margin-right: 5px;
+}
+
+.filter-component select {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  transition: border-color 0.3s;
+  margin-right: 20px;
+}
+
+.filter-component select:focus {
+  border-color: #007bff;
+}
