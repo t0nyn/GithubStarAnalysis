@@ -1,4 +1,3 @@
-// components/UserCard.js
 import React from 'react';
 import './UserCardComponent.css';
 

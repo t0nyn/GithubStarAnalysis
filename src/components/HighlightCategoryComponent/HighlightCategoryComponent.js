@@ -1,4 +1,3 @@
-// components/HighlightCategory.js
 import React from 'react';
 import UserCard from '../UserCardComponent/UserCardComponent';
 import './HighlightCategoryComponent.css';

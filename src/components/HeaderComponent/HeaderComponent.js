@@ -1,4 +1,3 @@
-// components/PageHeader.js
 import React from 'react';
 import './HeaderComponent.css'
 

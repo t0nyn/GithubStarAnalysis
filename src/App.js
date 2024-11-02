@@ -1,4 +1,3 @@
-// App.js
 import React, { useState, useEffect } from 'react';
 import ChartComponent from './components/ChartComponent/ChartComponent';
 import FilterComponent from './components/FilterComponent/FilterComponent';
