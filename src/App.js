@@ -4,8 +4,6 @@ import FilterComponent from './components/FilterComponent/FilterComponent';
 import HighlightCategory from './components/HighlightCategoryComponent/HighlightCategoryComponent';
 import Header from './components/HeaderComponent/HeaderComponent';
 import './App.css';
-import users100 from './static/thefuck-sample-100.json'
-import users1000 from './static/thefuck-sample-1000.json'
 import usersFull from './static/thefuck-sample-full.json'
 import { getFirstUsers, getPopularUsers, getRecentUsers } from './utils/highlightDataProcessing.js';
 import { processStarData } from './utils/dataProcessing.js';
